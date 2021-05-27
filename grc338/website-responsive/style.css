@@ -1,0 +1,107 @@
+/*CSS DOCUMENT*/
+
+img {
+    width: 100%; 
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
+div.container {
+    max-width: 60em;
+    margin: auto;
+}
+
+ul {
+   list-style-type: none; 
+}
+
+nav ul{
+    padding: 1em;
+    font-size: 1em;
+}
+
+nav ul li {
+    margin-right: 1em;
+    letter-spacing: 0.05em;
+    display: inline;
+}
+
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(255, 153, 153);
+    font-size: 1.2em;
+    font-family: paralucent, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+nav ul li a:hover {
+    color: rgb(104,108,146);
+}
+
+
+figure {
+    margin: 0;
+}
+
+p {
+    color: rgb(62, 111, 71);
+    font-family: dunbar-tall, serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+h1 {
+    width: 7em;
+    text-align: left;
+    color: rgb(104,108,146);
+}
+
+h2 {
+    color: rgb(104,108,146);
+    text-align:left;
+    font-family: dunbar-tall, serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+h3 {
+    text-align: left;
+    color: rgb(255, 153, 153);
+    font-family: paralucent, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    margin-right: 1em;
+}
+
+h4 {
+    text-align: left;
+    color: rgb(255, 128, 0);
+    font-family: paralucent, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1em;
+    margin-bottom: -.5em;
+    margin-top: 2em;
+}
+
+h5 {
+    color: rgb(255, 153, 153);
+    font-family: paralucent, sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: .7em;
+}
+
+
+body {
+    background-color: rgb(249,249,223);
+}
+
+footer {
+    text-align: left;
+}
+
